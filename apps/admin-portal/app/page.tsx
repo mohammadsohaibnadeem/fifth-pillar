@@ -7,7 +7,7 @@ export default function Page() {
     <main>
     <Accordion type="single" collapsible className="w-[50%]">
         <AccordionItem value="item-1">
-          <AccordionTrigger>Is it accessible?</AccordionTrigger>
+          <AccordionTrigger>Is it accessibles?</AccordionTrigger>
           <AccordionContent>
             Yes. It adheres to the WAI-ARIA design pattern.
           </AccordionContent>
